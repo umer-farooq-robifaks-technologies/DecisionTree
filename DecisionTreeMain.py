@@ -1,4 +1,4 @@
-from Project1DecisionTree import DecisionTree, DisplayTree, Testing
+from DecisionTree import DecisionTree, DisplayTree, Testing
 import pandas as pd
 from sklearn.model_selection import train_test_split
 global root
